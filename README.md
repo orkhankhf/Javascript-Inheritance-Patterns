@@ -1,1 +1,1 @@
-# Javascript-Inheritance-Patterns
+# Javascript Inheritance Patterns
